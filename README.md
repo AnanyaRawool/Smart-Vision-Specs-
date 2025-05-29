@@ -1,10 +1,10 @@
 # Smart-Vision-Specs-
-This project uses Raspberry Pi, YOLOv5, and Tesseract OCR to detect objects and read text in real-time from a live camera feed. The goal is to assist visually impaired users by identifying their surroundings and printed information.
+This project leverages Raspberry Pi, YOLOv5, and Tesseract OCR to deliver real-time object and text recognition from a live camera feed. Designed to empower visually impaired individuals, the system provides instant audio-based feedback by identifying objects in their surroundings and reading printed text.
 ```
 🚀 Features
-🔍 Real-time Object Detection using YOLOv5
-📖 Text Detection & Reading using EAST + Tesseract OCR
-🎥 Works with live camera feed
-🖥️ Lightweight server runs on Raspberry Pi
-💡 Modular codebase (easy for TTS or audio output integration)
+Real-time Object Detection using YOLOv5
+Text Detection & OCR
+Live Camera Integration
+Lightweight server runs on Raspberry Pi
+Optimized for Raspberry Pi
 ```
